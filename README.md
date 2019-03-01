@@ -1,4 +1,4 @@
-# Find Prime Factors by range
+# 1. Find Prime Factors by range
 
 Finding prime factors in between a range by python.
 
@@ -18,7 +18,7 @@ for文を使用したシンプルなコードです。
 2. just run like this! ($ python combination_primefactors.py "mini_num" "max_num")
 
 
-# get combinations that can be got by adding prime numbers
+# 2. Get combinations that can be got by adding prime numbers
 
 Finding prime factors in between a range by python3.
 
