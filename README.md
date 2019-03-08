@@ -26,11 +26,15 @@ Using priduct method, *itertools*, iterator, you can get combinations that you w
 
 from the rage you set, First get prime numbers, Second print all combinations of points that can compose a given max number.
 
+※ this code suitable for small numbners.
+
 最大数と最低数を指定して、素因数を取得します。
 
 イテレーター、pythonのitertoolsのproductmethodを使用して、あなたが知りたい組み合わせを求めます。
 
 あなたが指定した範囲から、まず素因数を取得します。次に、足し算をして、あなたが指定した範囲の最高値までの組み合わせを標準出力します。
+
+このコードは小さい数字に向いている。
 
 ## Usage
 
