@@ -1,4 +1,4 @@
-
+# -*- coding: utf-8 -*-
 import sys
 
 # input a base number from console.

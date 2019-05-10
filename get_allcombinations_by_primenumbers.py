@@ -1,4 +1,4 @@
-
+# -*- coding: utf-8 -*-
 import sys
 import pprint
 import itertools
@@ -46,3 +46,4 @@ def get_compositions(prime_nums):
 pairs = get_compositions(prime_nums);
 print('All combinations are:')
 pprint.pprint(pairs)
+#print(len(pairs))
