@@ -15,8 +15,14 @@ for文を使用したシンプルなコードです。
 ## Usage
 
 1. git clone
-2. just run like this! ($ python combination_primefactors.py "mini_num" "max_num")
+2. just run like this! ($ python3 combination_primefactors.py "mini_num" "max_num")
 
+#### output
+
+```
+The range is between 0 to 10.
+[2, 3, 5, 7]
+```
 
 # 2. Get combinations that can be got by adding prime numbers
 
@@ -41,4 +47,25 @@ from the rage you set, First get prime numbers, Second print all combinations of
 1. git clone
 2. just run like this! ($ python3 get_allcombinations_by_primenumbers.py "mini_num" "max_num")
 
+#### output
 
+```
+The range is between 0 to 10.
+Prime Numbers are:  [2, 3, 5, 7]
+All combinations are:
+[(2, 2, 3, 3),
+ (2, 3, 2, 3),
+ (2, 3, 3, 2),
+ (3, 2, 2, 3),
+ (3, 2, 3, 2),
+ (3, 3, 2, 2),
+ (2, 3, 5),
+ (2, 5, 3),
+ (3, 2, 5),
+ (3, 5, 2),
+ (5, 2, 3),
+ (5, 3, 2),
+ (3, 7),
+ (5, 5),
+ (7, 3)]
+```
