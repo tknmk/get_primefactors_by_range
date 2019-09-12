@@ -69,3 +69,13 @@ All combinations are:
  (5, 5),
  (7, 3)]
 ```
+
+# check_prime.py
+
+素数かどうかを確認します。
+(単一実行)
+
+```
+True / False
+```
+
